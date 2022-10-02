@@ -1,3 +1,7 @@
+# Rainer Herold
+# Version 0.1
+# 17.01.2022
+
 from HF import *
 
 # Variablen_Bereich
