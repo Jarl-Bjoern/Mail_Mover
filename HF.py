@@ -1,3 +1,7 @@
+# Rainer Herold
+# Version 0.1
+# 17.01.2022
+
 try:
     from os import mkdir, makedirs, remove, rename, system, walk
     from os.path import exists, join
